@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=%288CB8FF&vCenter=true&width=800&height=40&lines=Hello+|+Bonjour+;+Welcome+to+my+Github+profile+I'm+Alain+Kubwayo+🌍 )](https://git.io/typing-svg)
-<h3 align="center">A Software Engineer</h3>
+<h3>A Software Engineer</h3>
 
 
 ## 🙋‍♂️ About Me
