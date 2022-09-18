@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=%288CB8FF&vCenter=true&width=800&height=40&lines=Hello+|+Hola+|+Bonjour+|+Привет+|+你好+|+こんにちは+|+नमस्ते+|+Jambo+;+Welcome+to+my+Github+profile+I'm+Alain+Kubwayo+🌍 )](https://git.io/typing-svg)
-<!-- | Hello | Bonjour -->
-<h1 align="center">Hi, I'm Alain Kubwayo</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=7000&color=%288CB8FF&vCenter=true&width=800&height=40&lines=Hello+|+Bonjour+;+Welcome+to+my+Github+profile+I'm+Alain+Kubwayo+🌍 )](https://git.io/typing-svg)
 <h3 align="center">A Software Engineer</h3>
 
 
@@ -13,11 +11,6 @@
 - 👨‍💻 More on **[My Portfolio](https://alain-kubwayo.web.app)**
 
 - 📫 How to reach me **ahkubwayo@gmail.com**
-
-<h1 align="center">Achievement 🏆</h1>
-<p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=IbrahimBagalwa&theme=onedark&title=Followers,Commits,FullRequest,Repositories,Stars,Issues">
-</p>
 
 
 ## 🚀 Languages and Tools:
