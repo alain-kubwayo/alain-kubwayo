@@ -6,7 +6,7 @@
 
 - ⚡ Collaborative, responsible, detail-oriented, and inquisitive
   
-- 🌱 I’m currently learning **Java, Web3, Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Java and Web3**
 
 - 👨‍💻 More on **[My Portfolio](https://alain-kubwayo.web.app)**
 
@@ -29,6 +29,6 @@
 ## Connect with me:
 <p align="left">
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/alain-honore-kubwayo-58633b247/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:ahkubwayo@gmail.com) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://alain-kubwayo.web.app)
+[![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:ahkubwayo@gmail.com) [![See my portfolio](https://img.shields.io/badge/--portfolio?label=Portfolio&logo=portfolio&style=social)](https://alain-kubwayo.web.app)
 ___
 </p>
