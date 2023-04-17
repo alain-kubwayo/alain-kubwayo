@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alain Kubwayo
-=====================================================================================================================================
+Hi 👋 My name is Alain
+======================
 
 Software Engineer.Designer.
 ---------------------------
 
-Alain is a software engineer specializing in Laravel, PHP, MySQL, React.js, Next.js, Vue.js, PHP, and MySQL to build scalable and maintainable software solutions.
+I'm a software engineer that loves to build cool websites and web apps, mainly with React and Laravel.
 
 * 🌍  I'm based in Kigali, Rwanda
 * 🖥️  Visit my website at [alainkubwayo.dev](http://alainkubwayo.dev)
