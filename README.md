@@ -37,9 +37,3 @@ Alain is a software engineer specializing in Laravel, PHP, MySQL, React.js, Next
 ### Socials
 
 <p align="left"><a href="https://www.linkedin.com/in/alain-honore-kubwayo-47401626a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/alain-kubwayo"><img src="https://github-readme-stats.vercel.app/api?username=alain-kubwayo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alain-kubwayo's GitHub stats" /></a>
