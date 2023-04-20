@@ -9,7 +9,7 @@ I'm a software engineer that loves to build cool websites and web apps, mainly w
 * 🌍  I'm based in Kigali, Rwanda
 * 🖥️  Visit my website at [alainkubwayo.dev](http://alainkubwayo.dev)
 * 🚀  I'm currently working on [a cool project management tool](http://pms-three.vercel.app/)
-* 🧠  I'm learning SolidJS
+* 🧠  I'm learning GraphQL
 
 ### Skills
 
