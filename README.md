@@ -7,7 +7,6 @@ Software Engineer.Designer.
 I'm a software engineer that loves to build cool websites and web apps, mainly with Vue and Laravel.
 
 * 🌍  I'm based in Kigali, Rwanda
-* 🖥️  Visit my website at [alainkubwayo.dev](http://alainkubwayo.dev)
 * 🚀  I'm currently working on [a cool swimming community project](http://comswim-frontend.vercel.app/)
 
 ### Skills
