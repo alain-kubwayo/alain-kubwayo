@@ -4,7 +4,7 @@ Hi 👋 My name is Alain
 Software Engineer.Designer.
 ---------------------------
 
-I'm a software engineer that loves to build cool websites and web apps, mainly with Vue and Laravel.
+I'm a full-stack software engineer who loves to build cool websites and web apps, mainly with Vue.js and Laravel.
 
 * 🌍  I'm based in Kigali, Rwanda
 * 🚀  I'm currently working on [a cool swimming community project](http://comswim-frontend.vercel.app/)
@@ -29,6 +29,8 @@ I'm a software engineer that loves to build cool websites and web apps, mainly w
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="Next.js" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" /></a>
 </p>
 
 
