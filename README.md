@@ -1,10 +1,9 @@
-Hi 👋 My name is Alain
-======================
+Hi 👋
+====
 
-Software Engineer.Designer.
----------------------------
+###### I'm Alain
 
-I'm a full-stack software engineer who loves to build cool websites and web apps, mainly with Vue.js and Laravel.
+A full-stack software developer who loves to build cool websites and web apps, mainly with Vue.js and Laravel.
 
 * 🌍  I'm based in Kigali, Rwanda
 * 🚀  I'm currently working on [a cool swimming community project](http://comswim-frontend.vercel.app/)
