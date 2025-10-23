@@ -6,7 +6,7 @@ Hi 👋
 A full-stack software developer who loves to build cool websites and web apps, mainly with Vue.js and Laravel.
 
 * 🌍  I'm based in Kigali, Rwanda
-* 🚀  I'm currently working on [a cool swimming community project](http://comswim-frontend.vercel.app/)
+* 🚀  I'm currently contributing to this [open source project](https://github.com/EnAccess/micropowermanager)
 
 ### Skills
 
